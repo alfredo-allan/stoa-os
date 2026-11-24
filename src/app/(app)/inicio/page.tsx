@@ -198,11 +198,11 @@ export default function Inicio() {
               {isAdmin && <Link href="/admin?tab=podcasts" className="btn-gold rounded-full px-4 py-2 text-sm">Adicionar podcast</Link>}
             </div>
           ) : (
-            <div className="grid gap-3 md:grid-cols-2">
+            <div className="grid grid-cols-1 gap-3 md:grid-cols-2">
               {episodes.slice(-4).reverse().map((ep) => (
-                <button key={ep.id} onClick={() => play(ep)} className="panel flex items-center gap-4 rounded-2xl p-4 text-left transition hover:border-gold-500/50">
-                  <span className="grid size-11 place-items-center rounded-full bg-gold-300 text-ink-950"><Play className="ml-0.5 size-5" fill="currentColor" /></span>
-                  <span className="min-w-0">
+                <button key={ep.id} onClick={() => play(ep)} className="panel flex min-w-0 items-center gap-4 rounded-2xl p-4 text-left transition hover:border-gold-500/50">
+                  <span className="grid size-11 shrink-0 place-items-center rounded-full bg-gold-300 text-ink-950"><Play className="ml-0.5 size-5" fill="currentColor" /></span>
+                  <span className="min-w-0 flex-1">
                     <span className="block truncate text-[14.5px] text-parchment">{ep.title}</span>
                     <span className="text-[12px] text-muted">{works.find((w) => w.id === ep.workId)?.sections.find((s) => s.id === ep.sectionId)?.title}</span>
                   </span>

@@ -37,7 +37,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
 
   return (
     <div
-      className="min-h-dvh"
+      className="min-h-dvh overflow-x-clip"
       style={{ ["--player-h" as string]: hasEpisode ? "68px" : "0px" }}
     >
       {/* Trilho lateral (tablet/desktop) */}

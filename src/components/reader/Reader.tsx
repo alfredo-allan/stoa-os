@@ -262,11 +262,11 @@ export function Reader({ work, section }: { work: Work; section: Section }) {
         </div>
 
         {(mod || episodes.length > 0) && (
-          <div className="mb-10 grid gap-3 font-sans sm:grid-cols-2">
+          <div className="mb-10 grid grid-cols-1 gap-3 font-sans sm:grid-cols-2">
             {mod && (
               <button
                 onClick={() => setGuide({ workId: work.id, sectionId: section.id, n: null, entryId: mod.entries[0]?.id })}
-                className="group rounded-2xl border border-[var(--r-line)] bg-[var(--r-surface)] p-4 text-left transition hover:border-[var(--r-accent)]"
+                className="group min-w-0 rounded-2xl border border-[var(--r-line)] bg-[var(--r-surface)] p-4 text-left transition hover:border-[var(--r-accent)]"
               >
                 <span className="flex items-center gap-2 font-mono text-[10px] tracking-[0.2em] text-[var(--r-accent)] uppercase">
                   <Sparkles className="size-3.5" /> Guia de estudos · {mod.module}
@@ -276,11 +276,11 @@ export function Reader({ work, section }: { work: Work; section: Section }) {
               </button>
             )}
             {episodes.map((ep) => (
-              <button key={ep.id} onClick={() => play(ep)} className="group flex items-center gap-3 rounded-2xl border border-[var(--r-line)] bg-[var(--r-surface)] p-4 text-left transition hover:border-[var(--r-accent)]">
+              <button key={ep.id} onClick={() => play(ep)} className="group flex min-w-0 items-center gap-3 rounded-2xl border border-[var(--r-line)] bg-[var(--r-surface)] p-4 text-left transition hover:border-[var(--r-accent)]">
                 <span className="grid size-11 shrink-0 place-items-center rounded-full bg-[var(--r-accent)] text-[var(--r-bg)]">
                   <Play className="ml-0.5 size-5" fill="currentColor" />
                 </span>
-                <span className="min-w-0">
+                <span className="min-w-0 flex-1">
                   <span className="flex items-center gap-1.5 font-mono text-[10px] tracking-[0.2em] text-[var(--r-accent)] uppercase">
                     <Headphones className="size-3.5" /> Podcast
                   </span>
