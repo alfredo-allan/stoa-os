@@ -1,0 +1,2079 @@
+[
+ {
+  "sectionId": "prefacio",
+  "module": "Módulo 1",
+  "title": "O Prefácio — O Homem, o Trono e o Teatro da Vida Interior",
+  "introMd": "",
+  "outroMd": "",
+  "entries": [
+   {
+    "id": "prefacio",
+    "whole": true,
+    "from": 0,
+    "to": 0,
+    "title": "O Homem, o Trono e o Teatro da Vida Interior",
+    "quote": "\"O imperador romano Marco Aurélio Antonino nasceu em 26 de abril de 121 d. C. e foi educado pelos melhores mestres... Foi o último dos chamados 'cinco bons imperadores', imortalizado pela imagem que possuía já em vida, de 'Imperador filósofo'... Não podemos dizer que suas Meditações sejam uma espécie de diário convencional, pois nada de cotidiano é registrado ali, e sim os acidentes de sua vida interior...\"",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central (Histórica, Psicológica e Filosófica)",
+      "md": "Marco Aurélio governou o Império Romano em uma das épocas mais conturbadas de sua história: enfrentou a grave Peste Antonina trazida pelas legiões da Síria, o transbordo devastador do rio Tibre, guerras exaustivas contra partas e tribos germânicas nas fronteiras, além da traição de seu general Avídio Cássio. Ainda assim, manteve a reputação de líder justo, firme e misericordioso. Psicológica e filosoficamente, o Prefácio revela que as Meditações não foram escritas para publicação ou glória pessoal, mas redigidas nas noites frias em sua tenda militar (como em Carnunto) para consumo estritamente pessoal. O texto não é uma crônica de eventos externos, mas um laboratório de imunização psicológica. Em vez de registrar batalhas ou intrigas de tribunal, Marco Aurélio usava a escrita como uma ferramenta de higiene mental para combater o cansaço, a desilusão e a vaidade do poder supremo, ancorando-se na razão universal."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "| Conceito Estoico | Termo Grego/Latim | Explicação e Presença no Prefácio |\n|---|---|---|\n| **Guia Interior** | Hegemonikon (ἡγεμονικόν) | A faculdade racional diretiva da alma. O imperador se recusa a ser marionete das paixões ou das circunstâncias externas. |\n| **Tríade de Ouro** | — | Marco Aurélio encerra a grande tradição estoica ao lado de Sêneca (o estadista) e Epiteto (o escravo). |\n| **Exame de Consciência** | Askēsis (ἄσκησις) | Exercício moral diário para desmascarar aparências ilusórias e focar no que é real e permanente. |\n| **Amor à Verdade** | Verissimus | Apelido carinhoso dado ao jovem Marco pelo imperador Adriano devido à sua recusa em aceitar a adulação e a mentira. |"
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Imagine o CEO de uma grande corporação global enfrentando simultaneamente uma crise sanitária, colapso de fornecedores, sabotagem interna e concorrência agressiva. Em vez de usar seu diário para desabafar, culpar terceiros ou alimentar o autoestresse, ele o abre todas as noites para perguntar: “Dei o meu melhor hoje com justiça? Deixei meu ego controlar minhas decisões? O que o dever exige de mim amanhã?”. As Meditações funcionam exatamente como esse protocolo diário de calibragem mental, onde o líder não busca validação do mundo, mas o alinhamento com seus princípios inegociáveis."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática (Tutor de Vida e Virtude)",
+      "md": "**PROTOCOLO PRÁTICO DO PREFÁCIO**\n\n1. **Reinvente o seu Diário (Hábito da Escrita Estoica):** Não utilize seu caderno apenas para relatar fatos do dia. Use-o para interrogar suas reações. Pergunte a si mesmo: “Onde perdi a calma hoje? Fui motivado pela vaidade ou pela razão?”.\n2. **Desenvolva o Filtro da Ilusão:** Diante de elogios ou críticas intensas, recorde que ambas são opiniões passageiras. Marco Aurélio lembra que a fama póstuma e o reconhecimento externo são vapor e esquecimento.\n3. **Imunize-se contra a Posição de Vítima:** Mesmo governando o mundo conhecido, Marco Aurélio não se lamentava dos problemas do império. Trate suas dificuldades como o 'material de treino' enviado pela vida para fortalecer o seu caráter."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "sectionId": "livro-1",
+  "module": "Módulo 2",
+  "title": "Livro I — O Inventário da Gratidão e o Mapeamento da Virtude",
+  "introMd": "O Livro I de Meditações não é uma narrativa autobiográfica trivial, mas um exame moral de procedência. Marco Aurélio realiza um mapeamento exaustivo das virtudes que assimilou de cada figura relevante em sua formação — familiares, preceptores, filósofos e deuses —, estabelecendo a origem de seu próprio caráter (ethos). Na visão estoica, o indivíduo não nasce moralmente autônomo; seu caráter é moldado pelo aprendizado consciente e pela assimilação dos melhores exemplos da comunidade. A seguir, desconstruímos o Livro I em suas 17 seções fundamentais.",
+  "outroMd": "### Tabela Analítica: As Virtudes de Antonino Pio (Seção 16)\n\n| Atitude de Antonino Pio | Princípio Estoico | Significado Prático |\n|---|---|---|\n| **Mansidão com Firmeza** | Praotēs (Suavidade Racional) | Não confundir firmeza com crueldade ou grosseria. |\n| **Desprezo por Honras Vãs** | Adoxia (Desapego da Fama) | Focar no trabalho real, não nos aplausos ou títulos. |\n| **Parcimônia com Recursos** | Sophrosyne (Temperança) | Guardar o erário público e evitar desperdícios. |\n| **Constância no Dever** | Perseverantia | Manter a rotina de trabalho com energia, sem oscilações. |",
+  "entries": [
+   {
+    "from": 1,
+    "to": 1,
+    "title": "O Avô Verus (Serenidade e Caráter)",
+    "quote": "\"Herdei do meu avô Verus: o bom caráter e a serenidade.\"",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "A fundação moral de Marco Aurélio começa com a estabilidade de temperamento e a integridade de vida herdadas de seu avô Marcus Annius Verus. A serenidade não é vista como a ausência de problemas externos, mas como o controle interno sobre a turbulência emocional."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "- **Ethos (Caráter):** A disposição interior firme direcionada à virtude.\n- **Galene / Ataraxia (Serenidade):** A tranquilidade da alma que se mantém imperturbável perante os eventos imprevistos da vida."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "A compostura de um capitão de navio durante uma tempestade no oceano. Enquanto os passageiros entram em pânico com o balanço das ondas, o capitão mantém o olhar firme na bússola e no leme, executando os procedimentos com frieza calculada."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Em momentos de provocação ou estresse no trabalho, faça uma pausa deliberada antes de responder. Treine a serenidade como uma escolha consciente de não reagir ao impulso imediato."
+     }
+    ],
+    "id": "livro-1-1"
+   },
+   {
+    "from": 2,
+    "to": 2,
+    "title": "O Pai Biológico (Modéstia e Virilidade de Espírito)",
+    "quote": "\"Da reputação e memória legadas por meu pai recebi o caráter discreto e viril.\"",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "De seu pai, Annius Verus (falecido quando Marco Aurélio ainda era criança), o imperador guardou a imagem da virilidade entendida não como agressividade, mas como firmeza moral sem ostentação e discrição pessoal."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "- **Aidos (Modéstia / Discrição):** O recato que impede a busca vã por atenção e aplauso.\n- **Andreia (Coragem / Firmeza Viril):** A força de vontade necessária para sustentar deveres difíceis sem hesitação."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um engenheiro sênior que projeta uma infraestrutura crítica que salva milhares de vidas diárias, mas que não exige holofotes nem discursos públicos; a excelência da sua obra fala por si."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Execute suas tarefas mais difíceis com determinação absoluta e sem buscar a aprovação de terceiros ou vaidade nas redes sociais."
+     }
+    ],
+    "id": "livro-1-2"
+   },
+   {
+    "from": 3,
+    "to": 3,
+    "title": "A Mãe Domícia Lucila (Piedade, Frugalidade e Pureza de Pensamento)",
+    "quote": "\"Com minha mãe aprendi a respeitar os deuses, a ser generoso e a não agir mal, como também não ter pensamento semelhante. Dela assimilei a frugalidade no regime de vida e o distanciamento do modo de viver próprio dos ricos.\"",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "A mãe de Marco Aurélio ensinou-lhe a cortejar a pureza moral não apenas nos atos externos, mas na própria nascente das ações: os pensamentos secretos. Além disso, imunizou o futuro imperador contra os delírios do luxo palaciano."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "- **Eusebeia (Piedade / Reverência):** O respeito à ordem cósmica e ao divino.\n- **Litolotes (Frugalidade):** A moderação voluntária que impede a dependência das comodidades materiais.\n- **Vigilância da Mente (Hegemonikon):** A limpeza do pensamento antes que este se converta em uma intenção maliciosa."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Uma pessoa de grande capacidade financeira que opta por morar em uma casa sóbria, alimentar-se de forma simples e dedicar o excesso de seus recursos para causas sociais, recusando o consumo ostentoso."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Observe a sua mente ao longo do dia. Quando surgirem pensamentos de inveja, ganância ou ressentimento, corte-os na origem, antes que ganhem força e se transformem em palavras ou atitudes."
+     }
+    ],
+    "id": "livro-1-3"
+   },
+   {
+    "from": 4,
+    "to": 4,
+    "title": "O Bisavô (O Investimento na Educação Racional)",
+    "quote": "\"Assim como o meu bisavô, não frequentei escolas públicas e dispus de bons mestres em casa, e entendi que, para isso, é necessário gastar com generosidade.\"",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "A percepção de que a formação do caráter e da inteligência superior exige recursos, priorização e os melhores mentores possíveis, valorizando a educação sobre os bens passageiros."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "- **Paideia (Educação Integral):** O cultivo contínuo e rigoroso da alma e da mente.\n- **Uso Racional da Riqueza:** O entendimento de que o dinheiro é um indiferente preferível (proēgmenon), cujo valor real reside em ser convertido em sabedoria e virtude."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Em vez de adquirir veículos de luxo ou bens supérfluos, um profissional escolhe investir rigorosamente em livros, mentorias de alto nível e cursos transformadores."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Avalie seu orçamento mensal e realoque recursos que seriam gastos em entretenimento passivo para a sua formação filosófica, técnica e mental."
+     }
+    ],
+    "id": "livro-1-4"
+   },
+   {
+    "from": 5,
+    "to": 5,
+    "title": "O Preceptor (Independência de Facções e Foco no Trabalho)",
+    "quote": "\"Com meu preceptor percebi que não devo aderir à facção nem dos verdes, nem dos azuis... Vi que devo suportar as fatigas e ter poucas necessidades. Aprendi a valorizar o trabalho com esforço pessoal e a abstenção de excessivas tarefas, e a desfavorável acolhida à calúnia.\"",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "A imunização contra o tribalismo político/esportivo da época (as facções do Circo Máximo) e o cultivo do autotrabalho duro, da imunidade à fofoca e do foco no essencial."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "- **Autarkeia (Autossuficiência):** Ter poucas necessidades externas para depender o mínimo possível das circunstâncias.\n- **Apatheia perante o Tribalismo:** O recuso a ter a mente sequestrada por rivalidades infantis e paixões de torcida.\n- **Ponoi (Trabalho Duro):** O valor moral do esforço direto sem atalhos."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Não se envolver em polarizações ideológicas superficiais nas redes sociais nem discutir futebol/política com fanatismo, canalizando toda a energia para o aprimoramento pessoal e profissional."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Reduza os compromissos desnecessários da sua agenda. Quando ouvir uma calúnia ou fofoca, recuse-se a repassá-la e encerre o assunto ali mesmo."
+     }
+    ],
+    "id": "livro-1-5"
+   },
+   {
+    "from": 6,
+    "to": 6,
+    "title": "Diogneto (Rejeição da Superstição e Abandono das Futilidades)",
+    "quote": "\"Diogneto me mostrou que devo evitar ocupações inúteis, desconfiar dos que contam que fazem prodígios... suportar a conversa franca e familiarizar-se com a Filosofia... desejar a cama coberta de pele de animal...\"",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "O despertar para o pensamento crítico, a rejeição de milagres e charlatanismos, e o abraço à austeridade helênica no modo de viver."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "- **Askēsis (Austeridade / Treino Prático):** Exercitar o corpo e a mente na simplicidade (como dormir em camas duras) para não se tornar dependente do conforto.\n- **Parrhesia (Franqueza de Espírito):** Saber ouvir e falar a verdade sem melindres emocionais."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Rejeitar promessas de 'enriquecimento fácil' ou fórmulas mágicas de guru da internet, optando pelo estudo sério da realidade e por um estilo de vida sem exageros."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Pratique a austeridade voluntária (por exemplo, tomar um banho frio ou abrir mão de um privilégio no fim de semana) para recordar a si mesmo que a sua felicidade não depende do luxo."
+     }
+    ],
+    "id": "livro-1-6"
+   },
+   {
+    "from": 7,
+    "to": 7,
+    "title": "Quinto Júnio Rústico (O Cuidado com o Caráter e o Fim da Ostentação)",
+    "quote": "\"Com Rústico aprendi a conceber a ideia da necessidade de direcionar e cuidar do meu caráter; não me desviar para a emulação sofista... me afastar da retórica... estar disposto a aceitar com indulgência a reconciliação com os que nos ofenderam... ter contato com os Comentários de Epiteto...\"",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "Rústico foi a figura decisiva na virada de Marco Aurélio para o Estoicismo prático. Ensinou-o a abandonar a vaidade intelectual em prol da transformação da própria conduta e a perdoar prontamente os ofensores."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "- **Práxis vs. Sofisma:** A filosofia como arte de viver, e não como exibição de erudição verbal.\n- **Indulgência / Reconciliação:** O entendimento estoico de que o erro alheio provém da ignorância moral e deve ser acolhido com perdão assim que houver arrependimento."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um acadêmico brilhante que decide parar de usar termos difíceis apenas para impressionar e passa a escrever manuais práticos e acessíveis que ajudam as pessoas a resolverem seus problemas reais."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Escreva de forma simples e direta. Caso alguém que o tenha magoado no passado busque o diálogo, acolha a reconciliação sem manter rancor ou exigir humilhação alheia."
+     }
+    ],
+    "id": "livro-1-7"
+   },
+   {
+    "from": 8,
+    "to": 8,
+    "title": "Apolônio de Calcedônia (Firmeza Inabalável e Autonomia Racional)",
+    "quote": "\"De Apolônio assimilei a liberdade de critério e a decisão firme, sem vacilo nem recursos fortuitos; não dirigir o olhar a nenhuma outra coisa além da razão... o ser sempre inalterável, nas fortes dores, na perda de um filho, nas enfermidades prolongadas...\"",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "Apolônio exemplificou o rigor estoico diante das maiores tragédias humanas, demonstrando como manter a mente totalmente ancorada na razão mesmo sob dor física grave ou luto."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "- **Autonomia do Logos:** Não permitir que qualquer fator externo desloque a razão do centro do julgamento.\n- **Apatheia:** A capacidade de não ser destruído emocionalmente pelos acidentes inevitáveis da existência."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um médico cirurgião que, ao receber uma notícia trágica durante uma operação delicada, consegue manter as mãos firmes e a mente serena para salvar a vida do paciente que está na sua frente."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Quando enfrentar uma dor física forte ou uma perda inesperada, repita para si mesmo: \"A dor afeta o corpo, mas não precisa corromper a minha faculdade de pensar e agir com dignidade\"."
+     }
+    ],
+    "id": "livro-1-8"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "title": "Sexto de Queronéia (Benevolência e Vida Conforme a Natureza)",
+    "quote": "\"De Sexto: a benevolência, o exemplo de uma casa conduzida pela autoridade paterna, o projeto de viver conforme a natureza... a tolerância para com os ignorantes... o não ter dado nunca a impressão de cólera... ser o que mais profundamente ama a humanidade...\"",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "Sobrinho de Plutarco, Sexto personificava a perfeita união entre rigor filosófico e doçura no trato humano. Ensinou que o verdadeiro sábio ama a humanidade e é tolerante com a falta de conhecimento dos outros."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "- **Homologoumenos te physei zen:** O princípio mestre estoico de viver em harmonia com a natureza racional e cosmopolita.\n- **Philanthropia (Amor aos Homens):** A benevolência ativa para com a comunidade humana.\n- **Ausência de Cólera:** A eliminação completa da raiva como motor de ação."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um professor universitário consagrado que responde às perguntas ingênuas de um aluno iniciante com profunda paciência, respeito e incentivo, sem jamais demonstrar arrogância."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Pratique a paciência diante da ignorância alheia. Em vez de irritar-se com quem erra, lembre-se de que a pessoa age por desconhecimento da verdade."
+     }
+    ],
+    "id": "livro-1-9"
+   },
+   {
+    "from": 10,
+    "to": 10,
+    "title": "Alexandre, o Gramático (A Delicadeza na Correção)",
+    "quote": "\"De Alexandre, o gramático, a não censurar nem interromper alguém de modo ultrajante por um barbarismo... mas habilmente orientar a única expressão a ser proferida... feita de maneira conveniente e agradável.\"",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "A verdadeira educação não humilha o outro. Alexandre ensinou a corrigir erros de terceiros com tato, mantendo o foco no conteúdo e preservando a dignidade da pessoa."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "- **Eutrapelia / Urbanidade:** A virtude da convivência harmoniosa que evita o pedantismo e a correção agressiva.\n- **Respeito à Dignidade Alheia:** Priorizar a relação e o aprendizado sobre o desejo egóico de demonstrar superioridade técnica."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Em uma reunião de negócios, quando um colega comete um erro de cálculo ou de pronúncia, você responde incorporando a forma correta na sua fala seguinte de modo natural, sem apontar o erro dele em público."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Elimine a tentação de corrigir as pessoas por meros detalhes gramaticais ou formais apenas para parecer superior. Seja construtivo e elegante."
+     }
+    ],
+    "id": "livro-1-10"
+   },
+   {
+    "from": 11,
+    "to": 11,
+    "title": "Marco Cornélio Frontão (O Diagnóstico da Astúcia do Poder)",
+    "quote": "\"De Frontão aprendi a observar como é a inveja, a astúcia e a hipocrisia própria do tirano, e que, em geral, os que entre nós são chamados de patrícios são, de certa forma, incapazes de afeto.\"",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "Frontão, grande mestre de retórica, abriu os olhos de Marco Aurélio para os perigos morais da alta política: a frieza afetiva e a falsidade que costumam imperar nas elites de poder."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "- **Realismo Político Moral:** A lucidez de reconhecer os vícios do ambiente em que se vive sem ser contagiado por eles.\n- **Critério de Valoração do Afeto:** Compreender que os títulos sociais não garantem nobreza de caráter ou capacidade de amar."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um executivo que transita pela alta diretoria de uma multinacional, mas compreende a falsidade dos elogios corporativos e mantém seus verdadeiros laços de amizade e afeto fora desse teatro de vaidades."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Não se iluda com o prestígio ou os elogios de ambientes corporativos e políticos. Mantenha seu coração aquecido e autêntico no convívio com os seus."
+     }
+    ],
+    "id": "livro-1-11"
+   },
+   {
+    "from": 12,
+    "to": 12,
+    "title": "Alexandre, o Platônico (A Rejeição da Desculpa da 'Falta de Tempo')",
+    "quote": "\"De Alexandre, o platônico: o não dizer a alguém muitas vezes e sem necessidade ou escrever por carta: 'estou ocupado', e não recusar, assim, sistematicamente, as obrigações que impõem as relações sociais...\"",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "Usar a 'falta de tempo' como pretexto constante para esquivar-se de deveres humanos e sociais é um vício de fuga e uma demonstração de desorganização mental."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "- **Kathekon (Dever Apropriado):** As obrigações morais e sociais naturais que todo ser racional deve cumprir.\n- **Gestão do Tempo e Honestidade:** O reconhecimento de que o tempo presente deve ser administrado para atender ao bem comum."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "O gestor que nunca usa a frase 'estou atolado de reuniões' para ignorar um pedido de orientação legítimo de sua equipe, organizando suas prioridades com disciplina."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Pare de dizer às pessoas queridas que está 'sem tempo'. Reorganize sua rotina e honre seus deveres interpessoais sem dar desculpas evasivas."
+     }
+    ],
+    "id": "livro-1-12"
+   },
+   {
+    "from": 13,
+    "to": 13,
+    "title": "Catulo (Lealdade na Amizade)",
+    "quote": "\"De Catulo, a não desprezar um amigo por ser acusado por ele, ainda que sua acusação seja sem razão, mas me empenhar em fazê-lo retornar à sua disposição anterior...\"",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "A amizade sólida não se abala por desentendimentos temporários ou acusações infundadas nascidas de um momento de perturbação do amigo; exige o esforço ativo para restaurar a harmonia."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "- **Philia (Amizade Virtuosa):** O laço de afeição fundado no bem e na lealdade incondicional ao caráter do amigo.\n- **Paternalidade Afetiva:** O cultivo do amor autêntico pelos filhos, equilibrando rigor moral e afeto."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Quando um amigo de longa data se irrita injustamente com você por um mal-entendido, você ignora o ataque ao seu ego e o procura com calma para restaurar a amizade."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Não rompa laços por picuinhas ou desabafos irracionais de amigos. Seja o agente que toma a iniciativa para restaurar a paz na relação."
+     }
+    ],
+    "id": "livro-1-13"
+   },
+   {
+    "from": 14,
+    "to": 14,
+    "title": "Cláudio Severo (O Ideal de Justiça, Liberdade e Igualdade)",
+    "quote": "\"De Severo, meu irmão, o amor à família, à verdade e à justiça... concebi a ideia de uma constituição baseada na igualdade ante a lei, regida pela equidade e pela liberdade de expressão igual para todos...\"",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "Severo introduziu Marco Aurélio aos grandes heróis republicanos da liberdade (Catão, Bruto, Thrasea) e gravou em sua mente a visão mais elevada de governo: o poder a serviço da liberdade e da igualdade."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "- **Isonomia:** A aplicação da justiça de forma idêntica para todos os cidadãos.\n- **Isegoria:** O direito de cada indivíduo manifestar a verdade sem medo da tirania.\n- **Cosmopolitismo Estoico:** O entendimento de que todos participam da mesma lei racional universal (Logos)."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um líder de um país ou organização que cria regras transparentes onde a opinião do funcionário mais humilde tem o mesmo peso e proteção que a de um diretor executivo."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Em sua esfera de liderança (seja na família ou no trabalho), promova a equidade absoluta, escute a opinião de todos e garanta liberdade para que discordem de você sem medo de punição."
+     }
+    ],
+    "id": "livro-1-14"
+   },
+   {
+    "from": 15,
+    "to": 15,
+    "title": "Cláudio Máximo (Autodomínio, Firmeza Doce e Integridade)",
+    "quote": "\"Com Máximo assimilei o que é o domínio de si mesmo e o não deixar-se arrastar por nada; o bom humor em todas as circunstâncias... ser reto do que retificado.\"",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "Máximo encarnava o equilíbrio perfeito da maturidade estoica: autodomínio inabalável, verdade absoluta na fala e uma presença que inspirava respeito natural sem necessidade de severidade."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "- **Enkrateia (Autodomínio):** A soberania da razão sobre as paixões e impulsos.\n- **Alētheia (Sinceridade):** A congruência total entre o que se pensa, o que se fala e o que se faz.\n- **Ser reto, não retificado:** Ser íntegro por natureza e disciplina interior, sem necessitar de correções externas."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um juiz que mantém o bom humor e a calma impecável durante os julgamentos mais complexos, cujas sentenças são tão impecáveis que ninguém duvida de sua imparcialidade."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Alinhe rigorosamente suas palavras às suas intenções. Busque agir de forma tão correta que nenhuma auditoria ou fiscalização externa precise corrigir o seu trabalho."
+     }
+    ],
+    "id": "livro-1-15"
+   },
+   {
+    "from": 16,
+    "to": 16,
+    "title": "O Pai Adotivo Antonino Pio (O Modelo do Imperador-Filósofo)",
+    "quote": "\"De meu pai conheci a mansidão e a firmeza serena nas decisões profundamente examinadas. O não se vangloriar com as honras aparentes; o amor ao trabalho... sobriedade em tudo e firmeza... usufruía os bens em abundância sem orgulho e sem pretextos... tudo havia sido calculated com exatidão...\"",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "A mais longa e detalhada homenagem do Livro I. Antonino Pio representou a síntese viva da sabedoria estoica aplicada à alta administração. Administrou o império com parcimônia, rejeitou adulação e trabalhou incansavelmente."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "- **Uso dos Indiferentes Preferíveis:** Desfrutar da riqueza quando presente, sem apegar-se a ela.\n- **Imunidade à Adulação:** Desprezo total por aclamações falsas e elogios encomendados.\n- **Kathekon (Dever Supremo):** Exame minucioso de cada decisão pública com foco exclusivo no bem comum."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "O chefe de Estado ou CEO que se recusa a viajar em jatos de luxo, corta os seus próprios privilégios e trabalha 14 horas por dia no orçamento da instituição."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Em qualquer posição de liderança, elimine as exigências de privilégios. Trabalhe duro, decida com embasamento analítico e seja inflexível na proteção dos recursos."
+     }
+    ],
+    "id": "livro-1-16",
+    "extraMd": "### Tabela Analítica: As Virtudes de Antonino Pio (Seção 16)\n\n| Atitude de Antonino Pio | Princípio Estoico | Significado Prático |\n|---|---|---|\n| **Mansidão com Firmeza** | Praotēs (Suavidade Racional) | Não confundir firmeza com crueldade ou grosseria. |\n| **Desprezo por Honras Vãs** | Adoxia (Desapego da Fama) | Focar no trabalho real, não nos aplausos ou títulos. |\n| **Parcimônia com Recursos** | Sophrosyne (Temperança) | Guardar o erário público e evitar desperdícios. |\n| **Constância no Dever** | Perseverantia | Manter a rotina de trabalho com energia, sem oscilações. |"
+   },
+   {
+    "from": 17,
+    "to": 17,
+    "title": "Os Deuses e a Providência Divina (A Gratidão Ontológica)",
+    "quote": "\"Dos deuses recebi bons avós, bons pais, boa irmã, bons mestres, bons amigos... Tudo isso requer ajuda dos deuses e da sorte.\"",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "Marco Aurélio encerra o Livro I reconhecendo que suas virtudes não são mérito exclusivamente individual, mas fruto das oportunidades, pessoas e proteções providenciais que a vida lhe concedeu."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "- **Pronoia (Providência Universal):** A convicção de que o cosmos é regido por uma ordem racional.\n- **Amor Fati:** A aceitação grata de todas as circunstâncias e relações dadas pela vida.\n- **Humildade Cósmica:** A percepção de que mesmo o imperador do mundo é dependente da teia universal de causas."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um cientista vencedor do Prêmio Nobel que dedica toda a conquista aos seus pais, professores da infância e às oportunidades que a vida lhe abriu."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Faça um inventário pessoal de gratidão hoje. Liste os mentores, familiares, momentos de proteção e os desafios que moldaram a sua força mental."
+     }
+    ],
+    "id": "livro-1-17"
+   }
+  ]
+ },
+ {
+  "sectionId": "livro-2",
+  "module": "Módulo 3",
+  "title": "Livro II — A Cidadania Cósmica, a Impermanência e o Guia Interior",
+  "introMd": "O Livro II de Meditações foi composto por Marco Aurélio durante as duras campanhas militares na fronteira danubiana, em Carnunto. Sob o cenário de guerras contra os marcomanos e a devastadora Peste Antonina, o imperador utiliza seus escritos como higiene mental diária, recordando a si mesmo que as turbulências externas não podem macular a soberania do Guia Interior (Hegemonikon).",
+  "outroMd": "### Tabela Analítica: As Cinco Formas de Rebaixamento da Alma (Livro 2, 16)\n\n| Degradação Moral | Causa Interna | Consequência Estoica |\n|---|---|---|\n| **1. Revolta contra o Destino** | Recusa da ordem cósmica | Separação da Natureza Universal |\n| **2. Ódio e Aversão ao Próximo** | Egoísmo e incomodidade social | Rompimento da Sympatheia humana |\n| **3. Derrota por Prazer ou Dor** | Submissão aos instintos físicos | Escravização do Hegemonikon |\n| **4. Falsidade e Dissimulação** | Covardia e ausência de franqueza | Destruição da verdade e integridade |\n| **5. Ação ao Acaso sem Alvo** | Falta de propósito racional (Telos) | Desperdício fútil da energia vital |\n\n### Quadro Síntese: O Protocolo de Carnunto (Livro II)\n\n| Fase da Jornada | Meditações Chave | Núcleo de Imunização |\n|---|---|---|\n| **1. Preparação Matinal** | Seções 1 a 4 | Premeditatio Malorum, Tríade do Ser e Fim da Procrastinação Moral |\n| **2. Exame da Mente** | Seções 5 a 11 | Prosoche no Dever, Dicotomia do Controle e Indiferentes |\n| **3. O Fluxo e a Morte** | Seções 12 a 17 | Desconstrução do Medo, Instante Presente e a Filosofia como Refúgio |",
+  "entries": [
+   {
+    "from": 1,
+    "to": 1,
+    "title": "A Preparação Matinal e a Colaboração Humana",
+    "quote": "“Comece a manhã dizendo para si mesmo: encontrarei com um indiscreto, com um ingrato, com um insolente, com um mentiroso, com um invejoso, com um insociável. Tudo isso ocorre por ignorância do bem e do mal. Mas eu, que observei que a natureza do bem é o belo... não posso receber dano de nenhum deles... Pois nascemos para colaborar...”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central (Histórica, Psicológica e Filosófica)",
+      "md": "Exercício de antecipação psicológica matinal (Premeditatio Malorum). Marco Aurélio prepara a mente para lidar com comportamentos difíceis, reconhecendo que a maldade alheia decorre da ignorância moral e reafirmando o dever de cooperação entre os seres humanos como membros de um mesmo organismo."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "- **Premeditatio Malorum:** Antecipação mental dos obstáculos diários.\n- **Ignorância Moral (Amathia):** O mau procedimento nasce do desconhecimento da virtude.\n- **Synergia / Sympatheia:** Interdependência ontológica de todos os seres racionais."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um gestor que, antes de uma reunião tensa, mentaliza eventuais acusações e críticas, mantendo a calma e encarando a equipe como engrenagens que precisam de alinhamento."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática (Tutor de Vida e Virtude)",
+      "md": "Ao acordar, dedique dois minutos para antecipar comportamentos difíceis no trabalho ou trânsito, recordando que a reação irrepreensível depende exclusivamente da sua razão."
+     }
+    ],
+    "id": "livro-2-1"
+   },
+   {
+    "from": 2,
+    "to": 2,
+    "title": "A Tríade da Existência e o Guia Interior",
+    "quote": "“Isso é tudo o que sou: um pouco de carne, um breve fôlego vital e o guia interior. Abandone seus livros! Não distraia mais a sua mente... Reflita assim: você é velho, não consinta por mais tempo ser escravo, nem que siga ainda se arrastando como marionete por instintos egoístas...”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central (Histórica, Psicológica e Filosófica)",
+      "md": "Divisão analítica da existência humana em três instâncias: o corpo material, o fôlego vital transitório e o Guia Interior (Hegemonikon). Exortação severa contra o mero acúmulo passivo de livros e a condição de marionete movida por impulsos e vaidades."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "- **Hegemonikon (ἡγεμονικόν):** A faculdade racional diretiva da alma.\n- **Pneuma:** O sopro vital transitório e instável.\n- **Recusa a ser Marionete (Neurospastoumenos):** Libertação dos fios invisíveis dos instintos egoístas."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um motorista que acumula manuais de trânsito no porta-luvas, mas dirige distraído. A lataria e o combustível são secundários à lucidez de quem guia o veículo."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática (Tutor de Vida e Virtude)",
+      "md": "Interrompa o consumo ansioso de novos cursos e conteúdos quando perceber que ainda não colocou em prática os princípios essenciais já aprendidos."
+     }
+    ],
+    "id": "livro-2-2"
+   },
+   {
+    "from": 3,
+    "to": 3,
+    "title": "A Providência Cósmica e a Aceitação Resignada",
+    "quote": "“Tudo que é obra dos deuses está cheio de providência. Aquilo que depende de sorte não está separado da natureza ou da trama e entrelaçamento das coisas governadas pela providência... Afasta a sua sede de livros, para não morrer amargurado, mas verdadeiramente resignado e grato de coração aos deuses.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central (Histórica, Psicológica e Filosófica)",
+      "md": "Convicção cosmológica estoica de que o universo não é um caos aleatório, mas uma teia providencial (Pronoia). Eliminação da ansiedade teórica para atingir um estado de aceitação serena e gratidão existencial."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "- **Pronoia (Providência Universal):** Ordem racional subjacente às transformações da natureza.\n- **Amor Fati:** Acolhimento consciente dos eventos decretados pelo destino."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "As peças em um tabuleiro de xadrez: um sacrifício isolado pode parecer uma perda, mas responde à lógica e harmonia da estratégia global do jogo."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática (Tutor de Vida e Virtude)",
+      "md": "Diante de imprevistos ou mudanças bruscas de planos, descarte a revolta e pergunte-se como atuar com serenidade nessa nova configuração da realidade."
+     }
+    ],
+    "id": "livro-2-3"
+   },
+   {
+    "from": 4,
+    "to": 4,
+    "title": "A Urgência do Tempo e o Fim das Adiações",
+    "quote": "“Repare por quanto tempo vem adiando isso e quantas vezes recebeu avisos prévios dos deuses sem aproveitá-los... compreenderá que sua vida está circunscrita em um período de tempo limitado. Caso não aproveite essa oportunidade para se serenar, ela passará, e você também passará, e já não haverá outra.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central (Histórica, Psicológica e Filosófica)",
+      "md": "A imperatividade da transformação moral no tempo presente. A procrastinação do aperfeiçoamento da alma é um desperdício trágico diante da finitude inevitável da existência."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "- **Memento Mori:** Consciência da finitude usada como alavanca de ação ética imediata.\n- **Kairos:** A janela de oportunidade presente para o exercício da virtude."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um paciente que recebe sucessivos alertas sobre hábitos de saúde, mas adia as mudanças diárias até ser surpreendido por um quadro clínico irreversível."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática (Tutor de Vida e Virtude)",
+      "md": "Identifique uma mudança de atitude ou dever moral que vem postergando e dê o primeiro passo concreto nas próximas horas."
+     }
+    ],
+    "id": "livro-2-4"
+   },
+   {
+    "from": 5,
+    "to": 5,
+    "title": "O Dever Presente e o Esmero no Último Acto",
+    "quote": "“Em todas as horas, pense constantemente como romano e homem, em fazer o que tem nas mãos com precisão e não fingida gravidade, com amor, liberdade e justiça... Realize cada ato como se fosse o último de sua vida...”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central (Histórica, Psicológica e Filosófica)",
+      "md": "Cumprimento exaustivo e honesto do dever (Kathekon). A proposta de agir com máxima presença de espírito (Prosoche) e dedicação em cada tarefa diária, como se arrematasse a própria vida."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "- **Kathekon (Dever Apropriado):** Ação alinhada à razão e ao papel social.\n- **Prosoche (Atenção Plena):** Vigilância mental rigorosa sobre os atos do presente."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um artesão que esculpe cada detalhe de sua obra com tal esmero que, se o projeto fosse interrompido amanhã, o trabalho entregue seria irretocável."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática (Tutor de Vida e Virtude)",
+      "md": "Ao executar sua próxima tarefa profissional, dedique 100% da sua atenção a ela, recusando distrações ou desleixo."
+     }
+    ],
+    "id": "livro-2-5"
+   },
+   {
+    "from": 6,
+    "to": 6,
+    "title": "A Automutilação Moral da Alma",
+    "quote": "“Está insultando a si mesmo, insulte-se, alma minha! E já não terá ocasião para se honrar. Breve é a vida para cada um, e mesmo estando próxima do fim, insiste em reverenciar não a própria felicidade, mas a coloca nas almas alheias.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central (Histórica, Psicológica e Filosófica)",
+      "md": "Terceirizar o valor próprio e a sensação de paz para a opinião dos outros é uma traição à integridade da alma. A busca por validação externa em vez da retidão interna corrompe a dignidade."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "- **Autonomia Moral:** A verdadeira felicidade habita na consciência limpa, não na doxa (opinião) alheia.\n- **Desprezo pela Fama Vã:** Imunidade emocional aos elogios ou críticas da multidão."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "O profissional que condiciona seu bem-estar às curtidas em redes sociais ou a elogios corporativos, colapsando quando não recebe aplausos públicos."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática (Tutor de Vida e Virtude)",
+      "md": "Reavalie uma decisão recente e certifique-se de que a tomou por princípios próprios, e não para agradar a terceiros."
+     }
+    ],
+    "id": "livro-2-6"
+   },
+   {
+    "from": 7,
+    "to": 7,
+    "title": "A Eliminação das Distrações e o Alvo da Vida",
+    "quote": "“Os acidentes exteriores o distraem. Procure tempo livre para aprender algo bom e pare de girar como um pião... Porque deliram também, em meio a tantas ocupações, os que estão cansados de viver e não têm alvo ao qual dirigir todo o impulso...”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central (Histórica, Psicológica e Filosófica)",
+      "md": "A rejeição ao ativismo desordenado. O cansaço existencial muitas vezes não resulta do excesso de trabalho sério, mas da ausência de um propósito moral claro (Skopos) para ordenar os impulsos."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "- **Skopos (Alvo Moral):** Finalidade nobre à qual toda ação deve estar subordinada.\n- **Repúdio à Polypragmosyne:** Fim da dispersão em tarefas fúteis e ocupações sem valor."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um executivo que passa o dia apagando incêndios operacionais e checando notificações, terminando o dia exausto sem avançar nas metas estratégicas."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática (Tutor de Vida e Virtude)",
+      "md": "Antes de aceitar uma nova tarefa ou compromisso, pergunte-se se ela serve diretamente às suas obrigações e objetivos virtuosos."
+     }
+    ],
+    "id": "livro-2-7"
+   },
+   {
+    "from": 8,
+    "to": 8,
+    "title": "O Foco na Própria Alma",
+    "quote": "“Desconhecer o que se passa na mente alheia não torna um homem infeliz. A infelicidade está em não saber o que se passa na sua própria alma.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central (Histórica, Psicológica e Filosófica)",
+      "md": "A infelicidade nasce da negligência com o universo interior. Gastar energia tentando decifrar os pensamentos alheios enquanto se ignora o próprio Guia Interior é um erro de julgamento."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "- **Dicotomia do Controle:** Foco exclusivo no território da própria mente.\n- **Introspecção Racional:** Vigilância constante sobre os próprios juízos e motivações."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "A pessoa que gasta horas monitorando fofocas sobre a vida de terceiros enquanto ignora a própria ansiedade e desorganização pessoal."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática (Tutor de Vida e Virtude)",
+      "md": "Desconecte-se da fiscalização sobre a vida alheia e reserve momentos do dia para auditar seus pensamentos e estados emocionais."
+     }
+    ],
+    "id": "livro-2-8"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "title": "A Conexão com o Todo Universal",
+    "quote": "“Isto você deve ter sempre em mente: qual é a natureza universal, qual é a minha, como ambas se relacionam... Ninguém pode impedi-lo de falar e agir conforme a natureza da qual participa.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central (Histórica, Psicológica e Filosófica)",
+      "md": "O indivíduo deve reconhecer seu lugar como parte da Natureza Universal. Como ser racional, nada externo possui o poder de impedi-lo de agir de acordo com a virtude."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "- **Homologoumenos te physei zen:** Viver em harmonia com a natureza racional humana e cósmica.\n- **Inviolabilidade da Vontade:** A mente racional é inexpugnável por pressões externas."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um cientista que mantém o rigor do método experimental no laboratório, ciente de que palpites e rruídos externos não alteram as leis da natureza."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática (Tutor de Vida e Virtude)",
+      "md": "Quando sofrer pressões para ceder a condutas inadequadas, recorde-se de que sua integridade moral depende apenas da sua escolha."
+     }
+    ],
+    "id": "livro-2-9"
+   },
+   {
+    "from": 10,
+    "to": 10,
+    "title": "As Faltas por Ira vs. As Faltas por Desejo",
+    "quote": "“Teofrasto... compara que as faltas cometidas por desejo são mais graves que as cometidas por ira. Porque o homem irado parece desviar-se da razão com certa dor... enquanto a pessoa que peca por desejo, derrotado pelo prazer, mostra-se mais fraco...”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central (Histórica, Psicológica e Filosófica)",
+      "md": "Hierarquia ética das paixões: as faltas cometidas sob o impulso da ira surgem de uma dor ou reação a algo percebido como injusto; já os erros movidos pela busca do prazer revelam covardia e fraqueza moral mais profunda."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "- **Hierarquia das Paixões:** Distinção entre perturbações por dor e desvios por busca hedonista.\n- **Enkrateia (Autodomínio):** Resistência racional às atrações de gratificação imediata."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "A diferença entre um trabalhador que perde a calma por ter sido injustiçado numa reunião e outro que planeja uma fraude para custear luxos fúteis."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática (Tutor de Vida e Virtude)",
+      "md": "Mantenha guarda redobrada nos momentos de conforto e prazer, onde a disciplina do caráter tende a escorregar com maior facilidade."
+     }
+    ],
+    "id": "livro-2-10"
+   },
+   {
+    "from": 11,
+    "to": 11,
+    "title": "A Imparcialidade do Destino e os Indiferentes",
+    "quote": "“Diante da certeza de que pode deixar a vida a qualquer momento, faça, fale e pense todas e cada uma das coisas em consonância com essa ideia... A morte e a vida, a honra e a desonra, a dor e a alegria são atribuídas igualmente a todos... não nos melhoram ou pioram.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central (Histórica, Psicológica e Filosófica)",
+      "md": "Eventos externos (riqueza, dor, reputação, morte) acontecem indistintamente a homens bons e maus, não possuindo valor moral intrínseco. O único bem real é a virtude; o único mal é o vício moral."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "- **Indiferentes (Adiaphora / ἀδιάφορα):** Fatos neutros da existência que não corrompem nem elevam a alma em si.\n- **Revisão da Morte:** Desmistificação do fim da vida através da reflexão racional."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "A chuva e o vento forte durante um voo: não são bons nem maus em si mesmos; a segurança da viagem reside inteiramente na competência dos pilotos."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática (Tutor de Vida e Virtude)",
+      "md": "Cesse de rotular imprevistos externos como 'azar'. Trate-os como matéria-prima neutra para exercitar a sua coragem e sabedoria."
+     }
+    ],
+    "id": "livro-2-11"
+   },
+   {
+    "from": 12,
+    "to": 12,
+    "title": "A Dissolução Natural e a Desmistificação da Morte",
+    "quote": "“Como em um instante tudo desaparece... Que é a morte? Porque se um homem olhar para ela por si mesmo e, pela atividade separadora do pensamento, tirar todas as imagens associadas a ela, já não sugerirá outra coisa senão que é obra da natureza.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central (Histórica, Psicológica e Filosófica)",
+      "md": "Aplicação do método de desconstrução estoica (análise separadora). Ao despir a morte dos medos culturais e dramas imaginários, percebe-se que ela é uma transformação natural e necessária da matéria."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "- **Desconstrução das Impressões (Phantasia):** Limpar os fatos de suas projeções catastróficas.\n- **Utilidade da Dissolução:** A constante renovação dos elementos preserva o equilíbrio do universo."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Uma criança assustada por uma máscara de monstro que se acalma no momento em que a máscara é removida e a realidade nua é revelada."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática (Tutor de Vida e Virtude)",
+      "md": "Diante de um receio ou crise iminente, desmonte a situação em suas partes objetivas e elimine as fantasias dramáticas da sua mente."
+     }
+    ],
+    "id": "livro-2-12"
+   },
+   {
+    "from": 13,
+    "to": 13,
+    "title": "O Culto ao Deus Interior e a Compaixão com os Outros",
+    "quote": "“Nada mais infeliz que o homem que percorre em círculo todas as coisas... sem perceber que é necessário, apenas, estar junto à única divindade que habita seu interior e ser seu sincero servo... E o que procede dos homens nos é querido por nosso parentesco...”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central (Histórica, Psicológica e Filosófica)",
+      "md": "A paz autêntica consiste em servir ao Deus interior (Daemon), mantendo a alma pura das paixões irracionais. O procedimento inadequado do próximo deve ser acolhido com compaixão pedagógica, fruto da ignorância alheia."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "- **Daemon:** A centelha da Razão Divina dentro da consciência de cada indivíduo.\n- **Philanthropia / Compaixão:** Acolhimento das falhas alheias com serenidade e postura educativa."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um médico socorrista que não se ofende com os insultos de um paciente desorientado por febre alta, compreendendo o estado de turvação do indivíduo."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática (Tutor de Vida e Virtude)",
+      "md": "Diante de ofensas ou comportamentos desprovidos de tato, substitua a raiva pela compaixão de quem enxerga a cegueira moral do ofensor."
+     }
+    ],
+    "id": "livro-2-13"
+   },
+   {
+    "from": 14,
+    "to": 14,
+    "title": "A Soberania do Tempo Presente",
+    "quote": "“Ainda que pudesse viver três mil anos... lembre-se de que ninguém perde outra vida além da que vive, nem vive outra além da que perde... Porque somente podemos ser privados do presente, posto que possuímos apenas o presente...”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central (Histórica, Psicológica e Filosófica)",
+      "md": "A profundidade da finitude: viva-se pouco ou muito tempo, a perda é rigorosamente a mesma. O homem possui apenas o instante presente; o passado já não existe e o futuro ainda não nos pertence."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "- **Hic et Nunc (Aqui e Agora):** O tempo presente como a única dimensão real da existência e da virtude.\n- **Igualdade da Finitude:** Longevidade biológica não altera a extensão da perda existencial na morte."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Duas pessoas interrompidas no meio da exibição de um filme no cinema perdem exatamente a mesma coisa: o quadro da cena que estava passando naquele segundo."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática (Tutor de Vida e Virtude)",
+      "md": "Concentre toda a sua energia moral e atenção no momento presente, libertando-se de nostalgias do passado ou ansiedades do futuro."
+     }
+    ],
+    "id": "livro-2-14"
+   },
+   {
+    "from": 15,
+    "to": 15,
+    "title": "O Filtro dos Julgamentos de Valor",
+    "quote": "“Tudo é uma questão de opinião. É isso o que diz o cínico Mônimo. E da mesma forma, se alguém extrai de sua opinião o que ela traz de verdade, e a reflete adiante, estará igualmente se manifestando.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central (Histórica, Psicológica e Filosófica)",
+      "md": "A dor e o sofrimento emocional não residem nos fatos brutos, mas no julgamento de valor ou opinião (dogma) que a mente adiciona aos acontecimentos externos."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "- **Dogma (Julgamento de Valor):** A interpretação automática que acrescentamos aos dados dos sentidos.\n- **Filtragem Racional:** A faculdade de separar o fato objetivo da narrativa emocional criada."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "A rescisão de um contrato de trabalho: o fato é neutro; a opinião ('minha vida acabou') gera o desespero, enquanto outra opinião ('uma nova etapa') gera ação renovada."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática (Tutor de Vida e Virtude)",
+      "md": "Diante de qualquer imprevisto desagradável, remova o julgamento dramático e responda apenas ao fato bruto e objetivo."
+     }
+    ],
+    "id": "livro-2-15"
+   },
+   {
+    "from": 16,
+    "to": 16,
+    "title": "As Cinco Formas de Rebaixamento da Alma",
+    "quote": "“A alma humana se rebaixa quando se rebela contra os acontecimentos da natureza... Em segundo lugar, quando concebe aversão por alguém... quando se deixa vencer pelo prazer ou pela dor, quando dissimula... quando não dirige para um alvo determinado sua atividade...”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central (Histórica, Psicológica e Filosófica)",
+      "md": "Cartografia exaustiva dos vícios morais que degradam a alma racional: a revolta contra o destino, o ódio ao próximo, a submissão aos prazeres/dores, a falsidade dissimulada e a ação dispersa sem propósito (Telos)."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "- **Telos (Finalidade Racional):** Todas as ações humanas devem estar orientadas a um fim ético elevado.\n- **Parrhesia:** A rejeição visceral da mentira, manipulação e dissimulação na vida social."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um sistema de computador que sofre travamentos severos por rodar processos maliciosos, perder a conexão com a rede e gastar memória com tarefas fúteis."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática (Tutor de Vida e Virtude)",
+      "md": "Faça uma auditoria ao final do dia e verifique se não incorreu em nenhuma das cinco formas de degradação da alma racional."
+     }
+    ],
+    "id": "livro-2-16"
+   },
+   {
+    "from": 17,
+    "to": 17,
+    "title": "O Fluxo da Vida e a Filosofia como Única Companheira",
+    "quote": "“O tempo da vida humana é um ponto; e sua substância, um fluxo. Sua sensação: trevas... a vida, guerra e estância em terra estranha; a fama póstuma, esquecimento. O que pode, então, fazer-nos companhia? Única e exclusivamente a Filosofia... Isso foi escrito em Carnunto.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central (Histórica, Psicológica e Filosófica)",
+      "md": "Fechamento solene do Livro II redigido em Carnunto. Diante do fluxo ininterrupto do tempo, da fragilidade da carne e do esquecimento da fama, a Filosofia prática é a única força capaz de manter o Guia Interior sereno, digno e preparado para a dissolução natural."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "- **Panta Rhei (Tudo Flui):** Compreensão da transitoriedade radical de todas as coisas materiais.\n- **Filosofia como Therapeia:** A filosofia vista não como erudição abstrata, mas como imunização moral para a vida.\n- **Conclusão em Carnunto:** O compromisso inabalável com a virtude mesmo no meio da guerra e da peste."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um farol sólido construído sobre a rocha: as tempestades e ondas violentas se chocam ao redor, mas a lanterna central permanece acesa e orientando o rumo."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática (Tutor de Vida e Virtude)",
+      "md": "Nos momentos de turbulência extrema, faça da Filosofia estoica o seu porto seguro inabalável. Lembre-se de que a soberania da sua mente é a sua única posse real."
+     }
+    ],
+    "id": "livro-2-17"
+   }
+  ]
+ },
+ {
+  "sectionId": "livro-3",
+  "module": "Módulo 3",
+  "title": "Livro III — O Culto ao Daemon e a Finitude Intelectual",
+  "introMd": "**Síntese Introdutória do Livro III**\n\nO Livro III das Meditações foi composto durante um período de maturidade reflexiva e desapego radical. Marco Aurélio aprofunda o exame do dever individual, alertando para a finitude não apenas da vida biológica, mas da própria clareza intelectual antes da morte. Central ao Livro III é o culto ao Daemon interior — a centelha racional divina — e a exigência de agir com franqueza, justiça e simplicidade sem necessitar do aplauso humano.",
+  "outroMd": "### Quadro Síntese: O Protocolo do Sacerdote do Daemon (Livro III)\n\nO Livro III consolida o treinamento do guerreiro estoico sob a tutela da divindade interior (Daemon). Abaixo, resumimos as 4 atitudes cardinais que Marco Aurélio prescreve para manter a alma invulnerável:\n\n| Atitude Estoica | Princípio Subjacente | Impacto na Vida Diária |\n|---|---|---|\n| **Vigilância da Finitude Intelectual** | Memento Mori Racional | Agir no presente antes que a lucidez definhe. |\n| **Transparência de Pensamentos** | Alētheia / Parrhesia | Eliminar segredos, hipocrisia e dissimulação. |\n| **Análise Separadora das Aparências** | Stripping Method | Despir os fatos de seus dramas para ver a essência nua. |\n| **Amor ao Destino Assignado** | Amor Fati / Sympatheia | Apreciar o curso da Natureza sem lamentações. |",
+  "entries": [
+   {
+    "from": 1,
+    "to": 1,
+    "title": "A Caducidade da Razão e a Urgência da Ação",
+    "quote": "“Devemos considerar que a cada dia se gasta a vida... e se uma pessoa prolonga sua existência, não está claro se sua inteligência será igualmente capaz, mais à frente, para a compreensão das coisas... Convém, pois, apressar-nos não somente porque a cada instante estamos mais perto da morte, mas também porque cessa com antecedência a compreensão das coisas.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "O tempo corrói não apenas a estrutura física do corpo, mas também a vivacidade intelectual. Marco Aurélio adverte que adiar o cultivo da virtude é um risco mortal, pois a demência ou a obtusidade mental podem privar o ser humano da faculdade de dispor de si mesmo antes que o coração pare de bater."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "Finitude da Faculdade Racional (Hegemonikon); Kairos (O Momento Oportuno); Memento Mori Intelectual."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um atleta de elite que treina incansavelmente enquanto possui vigor físico pleno, sabendo que os reflexos e a força declinam muito antes do fim da vida, e portanto não adia seu desempenho máximo para a aposentadoria."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Não adie decisões éticas relevantes ou o estudo da sabedoria para a velhice. Use a lucidez e clareza mental do instante presente para estruturar sua vida interior hoje."
+     }
+    ],
+    "id": "livro-3-1"
+   },
+   {
+    "from": 2,
+    "to": 2,
+    "title": "A Beleza Singular nos Processos Secundários da Natureza",
+    "quote": "“As mudanças das coisas naturais têm algum encanto... o pão, ao ser assado, abre-se em certas partes... os figos maduros se entreabrem... as azeitonas prestes a apodrecer acrescentam ao fruto uma beleza singular... Quem tem sensibilidade verá em tudo um encanto único.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "Tudo o que se produz como consequência secundária das leis da Natureza possui sua própria harmonia estética. Marco Aurélio treina a percepção para enxergar no envelhecimento, nas marcas do tempo e nas imperfeições aparentes o curso natural e sublime da criação universal."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "Sympatheia (Afinidade Cósmica); Olhar Despido de Preconceitos Estéticos; Harmonia com o Todo."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um fotógrafo ou apreciador de arte que contempla a textura de um casarão antigo e marcado pelo tempo, percebendo elegância e profundidade naquilo que o leigo enxerga apenas como desgaste da pintura."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Aprenda a acolher as marcas do tempo em si e nos outros. Não rechace o envelhecimento ou as mudanças inevitáveis do corpo; observe-as como a maturação natural da existência."
+     }
+    ],
+    "id": "livro-3-2"
+   },
+   {
+    "from": 3,
+    "to": 3,
+    "title": "A Inevitabilidade da Morte dos Grandes Homens (“Desembarque!”)",
+    "quote": "“Hipócrates, depois de ter curado muitos enfermos, adoeceu também e morreu... Alexandre, Pompeu e Caio César acabaram por perder a vida... Heráclito morreu coberto de excrementos... O que isso significa? Você embarcou, atravessou mares, atracou: desembarque!”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "Nenhum saber científico, glória militar ou genialidade filosófica imunizou os maiores nomes da história contra a dissolução física. A vida é retratada como uma travessia marítima finita cujo desembarque final deve ser aceito com serenidade absoluta e sem pânico."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "Análise Niveladora da Morte; Transitoriedade do Poder e da Fama; Aceitação do Destino."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um passageiro em um voo internacional que, após realizar uma longa viagem com turbulências e paisagens maravilhosas, ouve o sinal de pouso e recolhe suas bagagens com tranquilidade para sair da aeronave."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Quando sentir tentado pelo orgulho ou pelo medo da morte, lembre-se de que os reis e cientistas mais brilhantes tiveram o mesmo fim simples. Cumpra sua jornada e prepare-se para desembarcar com dignidade."
+     }
+    ],
+    "id": "livro-3-3"
+   },
+   {
+    "from": 4,
+    "to": 4,
+    "title": "A Proteção do Guia Interior e o Fim da Curiosidade Fútil",
+    "quote": "“Não desperdice a parte da vida que lhe resta pensando na vida alheia, a não ser que seu objetivo aponte para o bem comum... Evite admitir o que é fruto do azar e supérfluo, mas muito mais o inútil e pernicioso. Acostume-se a ter unicamente ideias transparentes...”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "Desperdiçar a mente especulando sobre a vida, opiniões e segredos dos outros retira a atenção do *Guia Interior*. O homem virtuoso vive de tal modo transparente que, se indagado subitamente sobre o que pensa, responderia de imediato sem nada esconder."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "Prosoche (Vigilância das Impressões); Sinceridade e Transparência (Alētheia); Foco na Governança Interna."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um cirurgião na mesa de operação que recusa fofocar ou olhar mensagens no celular durante o procedimento, mantendo sua mente 100% concentrada na precisão do corte e no salvamento do paciente."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Cesse o monitoramento da vida alheia nas redes sociais e rodas de conversa. Cultive pensamentos tão limpos que você não sentiria vergonha se fossem projetados em uma tela pública."
+     }
+    ],
+    "id": "livro-3-4"
+   },
+   {
+    "from": 5,
+    "to": 5,
+    "title": "A Prontidão do Cidadão Romano (“Reto, Não Retificado”)",
+    "quote": "“Que o Deus que está em você proteja um ser viril, venerável, um cidadão, um romano, um chefe... pronto como um soldado atento ao toque da marcha... É bem melhor ser reto do que retificado.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "Marco Aurélio estabelece o padrão ético do imperador-soldado: firmeza, disciplina pessoal e autonomia moral. A integridade deve ser espontânea e natural (*ser reto*), sem necessitar de coerções externas ou punições da lei (*ser retificado*)."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "Autonomia Moral; Integridade Intrínseca; Prontidão no Dever (Kathekon); Culto ao Daemon."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um profissional que cumpre rigorosamente os prazos e normas de ética sem precisar de supervisão, auditoria ou ameaças de demissão da empresa, porque sua própria palavra e valor são seu guia supremo."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Faça o que é correto simplesmente porque é correto. Não espere fiscais, prêmios ou elogios para agir com retidão em todas as suas obrigações."
+     }
+    ],
+    "id": "livro-3-5"
+   },
+   {
+    "from": 6,
+    "to": 6,
+    "title": "A Supremacia do Bem Racional sobre as Ilusões",
+    "quote": "“Se no percurso da vida encontrar um bem superior à justiça, à verdade, à moderação e à valentia... dirija-se a ele... Mas se nada melhor aparece que a própria divindade interior... não dê atenção para nada mais... Escolha simples e livremente o melhor.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "Nada no mundo visível — como aprovação pública, riqueza, poder ou prazeres sensoriais — pode rivalizar com a nobreza de uma alma justa e disciplinada. Qualquer bem externo que desvie o indivíduo do cultivo da sua virtude interior deve ser sumariamente descartado."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "Averiguação do Bem Supremo (Summum Bonum); Hierarquia dos Bens vs. Indiferentes; Autossuficiência."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um pesquisador focado na descoberta de uma cura essencial que recusa propostas milionárias de indústrias para alterar seus dados científicos, mantendo a verdade como o bem absoluto inegociável."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Analise os seus maiores desejos atuais. Se algum deles exigir que você cometa uma injustiça, minta ou perca seu autodomínio, descarte-o imediatamente em favor da sua paz interior."
+     }
+    ],
+    "id": "livro-3-6"
+   },
+   {
+    "from": 7,
+    "to": 7,
+    "title": "A Inviolabilidade da Honra e a Rejeição da Hipocrisia",
+    "quote": "“Nunca dê tanto valor a uma coisa que o forçará um dia a transgredir sua fé, a perder a sua honra, a odiar qualquer homem, a agir com hipocrisia, a desejar qualquer objeto que precise da proteção de muros e véus...”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "O sábio estoico recusa alianças, bens ou conquistas que necessitem de sigilo, mentiras ou proteção de \"muros e véus\". Quem vive segundo o *Daemon* não precisa de esconderijos nem encena tragédias existenciais."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "Parrhesia (Liberdade e Honestidade na Fala); Pureza de Intenção; Inexpugnabilidade Moral."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um empresário que prefere perder um contrato rentável a assinar uma cláusula secreta de propina, dormindo com a consciência em paz por não precisar temer investigações futuros."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Evite situações, negócios ou relacionamentos que exijam de você dissimulação, segredos vergonhosos ou quebras de confiança. Viva inteiramente à luz do dia."
+     }
+    ],
+    "id": "livro-3-7"
+   },
+   {
+    "from": 8,
+    "to": 8,
+    "title": "A Alma Purificada e a Ausência de Feridas Morais",
+    "quote": "“Na mente do homem que se disciplinou e se purificou profundamente, nada purulento, nem manchado, nem mal cicatrizado poderia ser encontrado... E o destino não arrebata sua vida incompleta, como o ator que se retira da cena após concluir sua parte.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "A alma do praticante estoico é comparada a um organismo saudável e plenamente cicatrizado: limpo de ressentimentos, desprovido de dependências emocionais e pronto para encerrar seu papel no palco da vida a qualquer instante."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "Purificação Espiritual (Katharsis); Perfeição Moral no Instante; Ausência de Servidão às Paixões."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um ator de teatro maduro que entrega uma atuação tão brilhante e inteira no primeiro ato que, mesmo se o espetáculo for interrompido por um blecaute, seu trabalho já cumpriu a perfeição artística."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Cure suas mágoas passadas e não deixe tarefas morais pendentes. Viva cada dia de forma tão completa que, se sua vida se encerrasse hoje, seu papel estaria devidamente cumprido."
+     }
+    ],
+    "id": "livro-3-8"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "title": "A Proteção da Faculdade Intelectual",
+    "quote": "“Valorize a faculdade intelectual. Nela radica tudo, para que não se encontre jamais em seu guia interior uma opinião inconsistente com a natureza... Essa faculdade garante a ausência de precipitação, a familiaridade com os homens e a conformidade com os deuses.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "A faculdade de julgar com precisão é a joia mais preciosa da mente humana. É ela que impede os julgamentos precipitados, harmoniza os relacionamentos interpessoais e conecta o indivíduo com a Razão Cósmica."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "Proteção do Hegemonikon; Julgamento Racional (Assentimento Correto); Ausência de Impulsividade."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um analista de riscos que estuda minuciosamente todos os relatórios antes de emitir um parecer financeiro, ignorando o pânico ou a euforia infundada do mercado."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Não emita julgamentos apressados sobre pessoas ou situações sob o efeito de emoções fortes. Dedique tempo para analisar os fatos com a lucidez do seu intelecto."
+     }
+    ],
+    "id": "livro-3-9"
+   },
+   {
+    "from": 10,
+    "to": 10,
+    "title": "A Soberania do Instante Presente e a Finesse da Fama",
+    "quote": "“Lembre-se de que cada um vive exclusivamente o presente, o instante fugaz. O restante, ou se viveu ou é incerto. Insignificante é a vida de cada um, e insignificante o canto da terra onde vive... Pequena é a fama póstuma...”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "Uma reiteração contundente da finitude humana: possuímos apenas o milissegundo presente. A fama póstuma é ilusória, pois é mantida por gerações de homens que também desaparecerão rapidamente."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "Hic et Nunc (O Aqui e Agora); Dimensão Cósmica do Tempo; Futilidade da Glória Póstuma."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um historiador que analisa grandes impérios antigos e percebe que nomes outrora venerados como divindades hoje são apenas poeira em lápides esquecidas, focando seu valor no bem que faz no presente."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Ancore-se no dia de hoje. Não sacrifique sua paz ou seus valores atuais buscando aplausos de gerações futuras que você sequer conhecerá."
+     }
+    ],
+    "id": "livro-3-10"
+   },
+   {
+    "from": 11,
+    "to": 11,
+    "title": "A Análise Separadora e a Essência Nua dos Objetos",
+    "quote": "“Delimitar ou descrever a imagem que sobrevém, de maneira que se possa vê-la tal qual é em essência, nua... Nada é tão capaz de engrandecer o ânimo como comprovar com método cada objeto da vida...”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "O método analítico estoico por excelência: despir as situações, bens ou ofensas de suas roupagens dramáticas, reduzindo-os aos seus elementos químicos e físicos brutos para avaliar seu verdadeiro valor sem ilusões."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "Análise Separadora (Stripping Method); Visão Nua das Coisas; Desmistificação do Desejo/Medo."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um químico que analisa uma garrafa de vinho caríssimo de coleção e enxerga simplesmente água, açúcares fermentados e pigmentos de uva, sem se impressionar com o rótulo de ouro ou o preço extorsivo."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Quando algo parecer assustador ou desejável demais, faça o exercício de descompô-lo: *\"De que isso é feito em sua essência crua?\"*. Veja a realidade sem as lentes da fantasia."
+     }
+    ],
+    "id": "livro-3-11"
+   },
+   {
+    "from": 12,
+    "to": 12,
+    "title": "A Execução do Dever Presente e a Pureza do Deus Interior",
+    "quote": "“Se executar a tarefa presente segundo a reta razão, com afinco e firmeza, com benevolência... velando pela pureza de seu deus como se já fosse preciso restituí-lo... viverá feliz. E ninguém será capaz de o impedir.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "A felicidade verdadeira é inatingível por forças externas quando o indivíduo trabalha com afinco no presente, benevolência com os homens e retidão moral perante o *Daemon* interior."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "Inviolabilidade da Felicidade Racional; Cumprimento Impecável do Dever; Serviço à Divindade Interna."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um professor dedicado que leciona sua aula com amor e maestria plena, focado exclusivamente no aprendizado dos alunos, imune às intrigas políticas do departamento acadêmico."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Aborde a tarefa que está na sua frente agora com 100% de dedicação e bondade. Não permita que distrações ou medos estraguem a execução do seu dever."
+     }
+    ],
+    "id": "livro-3-12"
+   },
+   {
+    "from": 13,
+    "to": 13,
+    "title": "Os Instrumentos de Emergência da Mente Estoica",
+    "quote": "“Assim como os médicos sempre têm à mão seus instrumentos para as emergências, assim também tenha à mão os princípios fundamentais para conhecer as coisas divinas e as humanas...”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "Os princípios estoicos devem funcionar como um kit de primeiros socorros cirúrgicos da alma: prontos para serem sacados no momento exato em que a dor, a tentação ou o atrito interpessoal surgirem."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "Dogmata (Princípios Prontos para Uso); Prontidão Filosófica; Interconexão entre o Divino e o Humano."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um socorrista que carrega sua maleta médica perfeitamente organizada na viatura, sabendo exatamente qual bisturi ou medicação aplicar no segundo em que chega a um acidente."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Mantenha 3 máximas estoicas memorizadas no seu coração (ex.: *\"Isto não é um mal\"*, *\"Só posso controlar minha mente\"*, *\"Nascemos para colaborar\"*). Use-as imediatamente ao sinal de crise."
+     }
+    ],
+    "id": "livro-3-13"
+   },
+   {
+    "from": 14,
+    "to": 14,
+    "title": "O Fim das Vãs Esperanças e a Ação Imediata",
+    "quote": "“Não divague mais, porque nem lerá suas próprias memórias... Apresse-se, pois, ao fim, renuncie às vãs esperanças e auxilie a si mesmo, enquanto lhe resta essa possibilidade.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "Um basta definitivo ao acúmulo passivo de planos e leituras para a velhice. A hora de praticar a filosofia é agora; adiar o autossocorro moral é uma ilusão catastrófica."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "Eliminação das Esperanças Ilusórias; Autossocorro Moral Imediato; Fim do Colecionismo Teórico."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um nadador que percebe que a maré está subindo e decide parar de estudar manuais de navegação na praia para pular na água e nadar em direção ao porto com todas as suas forças."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Pare de planejar \"quando eu tiver tempo\". Auxilie a si mesmo moralmente hoje, aproveitando o tempo que ainda lhe resta."
+     }
+    ],
+    "id": "livro-3-14"
+   },
+   {
+    "from": 15,
+    "to": 15,
+    "title": "A Visão Espiritual dos Conceitos Fundamentais",
+    "quote": "“Desconhecem-se os conceitos corretos dos termos: roubar, semear, comprar, viver em paz, ver o que se deve fazer. Esses conceitos não se conseguem com os olhos, mas com uma visão diferente.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "A massa enxerga os eventos do mundo apenas sob a ótica física e comercial. O sábio desenvolve uma \"visão espiritual e racional\" que decodifica o significado moral e o valor real por trás de cada ação."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "Visão Racional (*Intellectus*); Decodificação Moral do Mundo; Rejeição da Superficialidade."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um especialista em cibersegurança que olha para uma tela cheia de linhas de código aparentemente caóticas e enxerga com precisão cirúrgica o fluxo de dados e a arquitetura do sistema."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Não avalie suas conquistas ou perdas apenas por critérios financeiros ou de status. Pergunte-se qual o real valor moral daquela situação para a sua elevação espiritual."
+     }
+    ],
+    "id": "livro-3-15"
+   },
+   {
+    "from": 16,
+    "to": 16,
+    "title": "A Tríade Existencial e a Harmonização com o Destino",
+    "quote": "“Corpo, alma, inteligência... Ser movido como fantoche pelos instintos corresponde às feras... Resta, como peculiar do homem bom, amar e abraçar o que lhe sobrevém... e viver em harmonia com seu próprio destino.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "A grande conclusão do Livro III. A distinção entre as funções biológicas/instintivas (comuns aos animais) e o selo distintivo do homem de bem: a capacidade de governar a inteligência e abraçar o destino (*Amor Fati*) com alegria e serenidade."
+     },
+     {
+      "key": "conceitos",
+      "label": "Conceitos Estoicos",
+      "md": "Tríade Existencial (Soma, Pneuma, Nous); Amor Fati Radical; Harmonização com a Ordem Cósmica."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um maestro que acolhe a entrada de instrumentos imprevistos durante uma apresentação ao vivo e os integra com maestria à sinfonia, criando uma peça de arte ainda mais bela."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Diante dos acontecimentos inevitáveis da sua vida, não lute contra a sinfonia do universo. Abrace seu destino com serenidade e viva em harmonia com a razão."
+     }
+    ],
+    "id": "livro-3-16"
+   }
+  ]
+ },
+ {
+  "sectionId": "livro-4",
+  "module": "Módulo 4",
+  "title": "Livro IV — A Cidadela Interior, o Fluxo do Tempo e o Amor Fati",
+  "introMd": "Apresentação do Módulo 4: O Livro IV das Meditações representa um dos ápices do pensamento de Marco Aurélio. Redigido sob a constante pressão do governo do Império e das campanhas militares, este livro consolida a teoria estoica da Cidadela Interior (o refúgio inexpugnável da alma), o conceito supremo de Amor Fati (a aceitação amorosa e ativa do destino) e a profunda compreensão da impermanência de todas as coisas humanas. Em consonância com a nossa metodologia rigorosa, analisamos o texto seção por seção, sem resumos ou omissões, desconstruindo cada meditação através da sua Reflexão Central, Conceitos Estoicos, Analogia Contemporânea e Aplicação Prática.",
+  "outroMd": "### Tabela Conceitual do Livro IV: A Arquitetura da Mente Estoica\n\n| Conceito Estoico | Termo em Grego / Latim | Significado no Livro IV | Aplicação Prática no Dia a Dia |\n|---|---|---|---|\n| **Amor Fati** | ἀγάπη τοῦ εἱμαρμένου | Aceitação amorosa do destino; o fogo que converte o obstáculo em combustível. | Ver nas mudanças involuntárias o material de treino moral. |\n| **Cidadela Interior** | Hegemonikon (ἡγεμονικόν) | O santuário inexpugnável da mente onde reside a verdadeira paz. | Retirar-se para a própria alma em meio ao caos e ao ruído. |\n| **Dicotomia do Controle** | Tà eph' hēmîn / ouk eph' hēmîn | Separar o que depende do julgamento próprio do que é externo. | Destruir a opinião 'fui prejudicado' para eliminar o dano. |\n| **Sympatheia** | συμπάθεια | Interconexão de todos os seres no organismo do cosmos vivo. | Tratar todos como concidadãos da Pátria Universal. |\n| **Memento Mori** | Gnosis tou thanatou | Consciência da brevidade da vida para agir com integridade no presente. | Não viver como se fosse durar 10.000 anos; agir bem agora. |\n| **Adoxia** | ἀδοξία | Desapego dos elogios e da fama póstuma; a virtude basta a si mesma. | Praticar o bem em segredo, sem buscar aplauso ou reputação. |\n\n### Protocolo Prático do Livro IV — A Azeitona Madura e o Fogo Estoico\n\n1. **Converta o Obstáculo:** Diante de qualquer barreira, aja como o fogo. Devore o problema e transforme-o em combustível.\n2. **Recuse o Dano Fictício:** Lembre-se de que nada o fere a menos que sua mente decida que foi prejudicado.\n3. **Recolha-se à Cidadela:** Não procure ilhas ou montanhas para descansar. A paz está na boa ordem dos seus pensamentos.\n4. **Seja a Azeitona Madura:** Encerre cada jornada com gratidão à vida, amor ao destino e paz com a própria consciência.",
+  "entries": [
+   {
+    "from": 1,
+    "to": 1,
+    "title": "O Fogo que Converte Obstáculos em Combustível",
+    "quote": "“Quando está de acordo com a natureza, a nossa alma reinante adota, em relação aos acontecimentos, uma atitude tal que sempre, e com facilidade, pode adaptar-se às opções que lhe são apresentadas... Converte o que é desfavorável em material para si, tal qual o fogo...”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "A mente alinhada com a razão não se frustra quando seus planos originais são bloqueados. Em vez de lamentar a adversidade, ela a engole e a transforma na própria matéria-prima de sua virtude, agindo como uma grande fogueira que devora qualquer elemento arremessado sobre ela."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "Amor Fati (amor ao destino) & Hegemonikon (alma reinante). O obstáculo não é um impedimento para a ação, mas o próprio caminho para o exercício da coragem, da paciência e da flexibilidade racional."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Uma empresa de tecnologia cuja linha de produtos principal é subitamente banida por uma mudança regulatória. Em vez de falir, a equipe utiliza toda a infraestrutura construída para criar uma solução totalmente nova, crescendo ainda mais rápido."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Diante de um imprevisto ou cancelamento no seu dia, não reclame. Pergunte-se imediatamente: “Como posso usar esta mudança involuntária para treinar minha paciência, criatividade ou resiliência?”"
+     }
+    ],
+    "id": "livro-4-1"
+   },
+   {
+    "from": 2,
+    "to": 2,
+    "title": "Ação Motivada e Reta Razão",
+    "quote": "“Nenhuma ação deve empreender-se sem motivo nem de modo divergente à norma consagrada pela arte.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "Toda ação humana deve possuir um propósito racional límpido (Telos) e seguir os princípios fundamentais da arte de viver (a Filosofia). O automatismo, a reatividade irracional e o ativismo desordenado são indignos de um homem moral."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "Kathekon (dever apropriado) & Orthos Logos (reta razão). Rejeição do impulso cego em favor da deliberada intencionalidade ética em cada gesto."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um maestro profissional que recusa tocar notas ao acaso apenas para preencher o silenciador; cada movimento de sua batuta responde à partitura rigorosa e à harmonia do conjunto."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Antes de aceitar uma nova tarefa ou enviar uma mensagem impulsiva no trabalho, faça uma pausa e questione: “Qual é o propósito racional por trás deste ato? Ele está alinhado com meus princípios?”"
+     }
+    ],
+    "id": "livro-4-2"
+   },
+   {
+    "from": 3,
+    "to": 3,
+    "title": "O Retiro na Cidadela Interior",
+    "quote": "“As pessoas buscam retiros no campo, na costa e no monte... Mas quem filosofa pode, quando quiser, buscar retiro em si mesmo. Em nenhuma parte o homem se retira com maior tranquilidade que em sua própria alma... O mundo é uma constante transformação; e a vida, opinião.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "A verdadeira paz não é uma localização geográfica ou o isolamento físico nas montanhas, mas a boa ordem da mente (*Eutaxia*). O indivíduo pode aceder à calma absoluta a qualquer segundo recolhendo-se à sua Cidadela Interior e recordando que as coisas externas não tocam a alma."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "Cidadela Interior, Ataraxia (imperturbabilidade) & Dogma (julgamento). A paz deriva da ausência de opiniões perturbadoras construídas pela própria mente."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "A cabine pressurizada de um avião supersônico voando em meio a uma tempestade de raios. O exterior está em caótica turbulência, mas o interior permanece totalmente silencioso, climatizado e sob controle."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Quando o ambiente ao seu redor estiver caótico ou ruidoso, não espere as férias para relaxar. Feche os olhos por 30 segundos, respire fundo e retire-se para a ordem da sua própria consciência."
+     }
+    ],
+    "id": "livro-4-3"
+   },
+   {
+    "from": 4,
+    "to": 4,
+    "title": "A Razão Comum e o Cosmopolitismo",
+    "quote": "“Se a inteligência é comum a todos os homens, também a razão... nos é comum. Admitido isso, a lei é a mesma para todos. Sendo assim, somos concidadãos... o mundo é como uma cidade.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "Todos os seres humanos compartilham a mesma centelha racional (*Logos*). Consequentemente, somos cidadãos de uma mesma e grande Pátria Cósmica (*Cosmopolis*), onde a lei natural exige a cooperação e a fraternidade universal."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "Cosmopolitismo Estoico & Sympatheia (interconexão universal). A superação dos bairrismos e nacionalismos egoístas em favor da cidadania mundial."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Os tripulantes da Estação Espacial Internacional. Ao olharem a Terra do espaço, percebem que as fronteiras políticas não existem e que a sobrevivência de todos depende da cooperação mútua."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Trate qualquer pessoa com quem cruzar hoje — seja o prestador de serviços ou o desconhecido no trânsito — com a cordialidade devida a um concidadão da mesma Pátria Universal."
+     }
+    ],
+    "id": "livro-4-4"
+   },
+   {
+    "from": 5,
+    "to": 6,
+    "title": "A Morte como Processo Natural",
+    "quote": "“A morte, assim como o nascimento, é um mistério da natureza, combinação de certos elementos (e dissolução) neles mesmos... dentro de brevíssimo tempo, você e a figueira estarão mortos...”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "A morte não é uma tragédia ou punição, mas a simples reorganização dos elementos físicos que compõem o corpo. Sentir vergonha ou pânico da morte é desconhecer a lógica perfeita da natureza."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "Memento Mori & Metamorfose Natural. A mortalidade como um fato neutro e harmonioso da mecânica do cosmos."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "A água que evapora com o calor do sol, transforma-se em nuvem e depois cai em forma de chuva para nutrir a terra. A substância é a mesma; apenas a forma se altera."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Encare o envelhecimento e a finitude não com desespero, mas com a maturidade de quem compreende a beleza do ciclo natural da vida."
+     }
+    ],
+    "id": "livro-4-5-6"
+   },
+   {
+    "from": 7,
+    "to": 7,
+    "title": "A Eliminação do Julgamento de Dano",
+    "quote": "“Destrua a opinião e destruído estará o pensamento ‘fui prejudicado’. Elimine a queixa ‘fui prejudicado’ e eliminado estará o dano.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "Uma das máximas mais poderosas do Estoicismo. Nenhuma ofensa ou evento externo tem a capacidade intrínseca de nos ferir. O dano moral só se concretiza se a nossa própria mente der o consentimento e disser: \"fui prejudicado\"."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "Dicotomia do Controle & Dogma. A distinção absoluta entre o fato objetivo e a valoração subjetiva atribuída a ele."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um e-mail crítico enviado por um cliente irritado. As letras na tela são neutras; a sensação de insulto ou raiva só nasce quando você lê o e-mail e decide julgar que foi atacado."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Quando alguém fizer uma crítica dura a você, repita internamente: “Se eu recusar a opinião de que fui ferido, nenhum dano real terá me atingido.”"
+     }
+    ],
+    "id": "livro-4-7"
+   },
+   {
+    "from": 8,
+    "to": 10,
+    "title": "A Justiça Cósmica e o Agir Íntegro",
+    "quote": "“O que não deteriora o homem, tampouco deteriora sua vida... ‘Tudo o que acontece, por justiça acontece’. Você constatará isso, se prestar a devida atenção.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "Eventos externos (perdas financeiras, dores físicas) não deterioram a alma do homem de bem. O universo obedece a uma justiça providencial profunda; suportar as provações com nobreza é o papel que cabe ao sábio."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "Pronoia (providência) & Aretē (virtude soberana). O único bem autêntico é a retidão do caráter."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um bloco de ouro puríssimo que é submetido ao fogo abrasador de uma forja. O fogo não destrói o ouro; apenas remove as impurezas e revela o seu brilho real."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Em momentos de contrariedade, recuse a postura de vítima. Lembre-se de que nada pode corromper sua integridade a menos que você próprio decida agir com pequenez."
+     }
+    ],
+    "id": "livro-4-8-10"
+   },
+   {
+    "from": 11,
+    "to": 13,
+    "title": "A Visão Objetiva e a Razão Aplicada",
+    "quote": "“Não considere as coisas tal como as julga o homem insolente... examine-as tal como são em realidade. É preciso ter sempre preparadas estas duas disposições: executar o bem comum e mudar de atitude perante a verdade.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "O estoico pratica a desconstrução nua dos fatos, enxergando os acontecimentos sem a névoa dos preconceitos ou das provocações alheias. Além disso, mantém a humildade de mudar de opinião imediatamente quando confrontado com a verdade."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "Análise Objetiva (*Phantasia Kataleptike*) & Aberto à Correção. O amor à verdade acima do orgulho pessoal."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um cientista que defendeu uma hipótese por anos, mas que, ao ver os resultados irrefutáveis de um novo experimento, abandona seu antigo modelo sem hesitação para abraçar a verdade comprovada."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Se alguém demonstrar logicamente que você estava errado em uma discussão, agradeça o esclarecimento em vez de defender seu erro por vaidade."
+     }
+    ],
+    "id": "livro-4-11-13"
+   },
+   {
+    "from": 14,
+    "to": 16,
+    "title": "A Reabsorção no Todo e o Culto à Razão",
+    "quote": "“Você tem existido como uma parte do todo. No entanto, dia virá em que você desaparecerá naquilo que o produziu... Há muitas hastas de incenso sobre o mesmo altar: uma se queimou primeiro, outra mais tarde. Não faz diferença.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "A vida individual é apenas uma centelha temporária. Se queimamos mais cedo ou mais tarde sobre o altar do tempo, a diferença é irrelevante; o crucial é servir à razão enquanto durar a chama."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "Transitoriedade Material & Culto ao Daemon. A resignação racional perante a ordem de dissolução dos corpos."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Velas acesas durante uma cerimônia. Não importa qual vela termina de queimar dez minutos antes ou depois; todas cumpriram sua função de iluminar a sala."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Não meça o valor da sua vida pela longevidade biológica, mas pela intensidade moral e lucidez do tempo que lhe é concedido."
+     }
+    ],
+    "id": "livro-4-14-16"
+   },
+   {
+    "from": 17,
+    "to": 18,
+    "title": "Memento Mori e a Recusa da Fofoca",
+    "quote": "“Não conduza sua vida como se ainda fosse viver dez mil anos. A morte já vem em sua ronda. Enquanto está vivo, seja um bom homem... Quanto transtorno evita aquele que não se preocupa com o que seu vizinho diz, faz ou pensa!”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "Uma exortação à urgência da virtude. Viver como se tivéssemos milénios pela frente é uma ilusão infantil. A energia gasta especulando a vida alheia é um roubo contra o tempo de aperfeiçoamento da nossa própria alma."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "Memento Mori & Prosoche (atenção plena). Eliminação das especulações fúteis para focar no próprio dever."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um atleta participando de uma maratona olímpica que não perde tempo olhando para a vida pessoal dos espectadores nas arquibancadas, mas mantém os olhos fixos na linha de chegada."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Elimine hoje o consumo de fofocas, notícias apelativas sobre a vida privada de terceiros ou discussões estéreis. Use essa energia para cuidar das suas obrigações."
+     }
+    ],
+    "id": "livro-4-17-18"
+   },
+   {
+    "from": 19,
+    "to": 20,
+    "title": "A Fútil Glória Póstuma e a Beleza Autêntica",
+    "quote": "“O homem que se deslumbra pela glória póstuma não imagina que cada um dos que se lembraram dele morrerá também em breve... O que é realmente belo e de que você tenha necessidade? Nada mais que a lei, a verdade, a benevolência ou o pudor. A esmeralda se deteriora porque não a elogiam?”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "Marco Aurélio desmascara o mito da fama e da reputação futura. O elogio alheio não acrescenta nem retira valor de uma ação ou de um objeto. Uma esmeralda não perde seu valor por não ser elogiada; da mesma forma, uma boa ação é completa em si mesma."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "Desapego do Elogio (*Adoxia*) & Autonomia do Belo. A virtude é a sua própria recompensa."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Uma obra de arte magistral pintada no interior de uma caverna remota. Mesmo que nenhum olho humano a veja ou elogie, sua beleza intrínseca permanece intacta."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Faça algo excelente hoje — um ato de generosidade ou um trabalho bem feito — e mantenha-o em absoluto segredo, sem buscar aprovação de ninguém."
+     }
+    ],
+    "id": "livro-4-19-20"
+   },
+   {
+    "from": 21,
+    "to": 23,
+    "title": "O Hino de Amor Fati e a Harmonia Cósmica",
+    "quote": "“Harmonize comigo tudo o que para você é harmonioso, ó mundo! Nenhum tempo oportuno para você mesmo é prematuro nem tardio para mim. É fruto para mim tudo o que produzem suas estações, ó natureza!”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "Uma das mais belas e elevadas preces do Estoicismo. Marco Aurélio expressa seu alinhamento irrestrito com a vontade da Natureza Universal. O que o cosmos determina no tempo certo é acolhido pelo sábio com entusiasmo e veneração."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "Amor Fati Sublimado & Harmonia com o Logos. Aceitação alegre e não meramente passiva da realidade."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um velejador experiente que ajusta suas velas para se mover em perfeita sintonia com a direção do vento, celebrando a força da natureza em vez de lutar contra a brisa."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Diante das mudanças de estação da sua vida (sucessos ou perdas), diga com o coração: “Tudo o que a Natureza traz é o fruto certo para a minha evolução.”"
+     }
+    ],
+    "id": "livro-4-21-23"
+   },
+   {
+    "from": 24,
+    "to": 27,
+    "title": "Poucas Atividades e a Mente Sóbria",
+    "quote": "“Disse alguém: ‘Realiza poucas atividades, se quer manter o bom humor’. Não seria melhor fazer o necessário... a maior parte das coisas que dizemos e fazemos, ao não serem necessárias, se fossem suprimidas, reportariam bastante mais ócio e tranquilidade.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "A paz mental e o bom humor não nascem do ócio improdutivo, mas da eliminação radical do que é supérfluo. Reduzindo as ações apenas ao que o dever e a razão exigem, ganha-se eficiência e serenidade."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "Frugalidade de Ação & Sobriedade da Mente. Rejeição do ativismo histérico."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um editor de texto sênior que corta 50% das palavras desnecessárias de um manuscrito, tornando o livro infinitamente mais potente, límpido e agradável de ler."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Examine sua lista de tarefas de hoje. Corte impiedosamente as atividades que são fruto apenas do ego, da ansiedade ou da obrigação social irrelevante."
+     }
+    ],
+    "id": "livro-4-24-27"
+   },
+   {
+    "from": 28,
+    "to": 31,
+    "title": "A Preservação da Razão contra a Marginalização Moral",
+    "quote": "“Desertor é o que foge da razão social. Cego o que tem fechados os olhos da inteligência... Um, sem túnica, vive como filósofo; o outro, sem livro; aquele outro, seminú, diz: ‘Não tenho pão, mas preservo a razão’.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "O verdadeiro mendigo não é quem carece de roupas ou livros, mas quem vive desprovido de virtude e razão. Quem se rebela contra a comunidade ou contra o destino se isola como um amputado do corpo social."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "Integridade Filosófica & Dever Social. A virtude como a única verdadeira riqueza."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um cientista que perde seus equipamentos em um incêndio no laboratório, mas mantém intacto seu método, seu conhecimento e sua paixão por descobrir a verdade."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Mesmo que enfrente escassez de recursos materiais ou incompreensão ao seu redor, mantenha sua mente rica de princípios e dignidade."
+     }
+    ],
+    "id": "livro-4-28-31"
+   },
+   {
+    "from": 32,
+    "to": 35,
+    "title": "As Lições da História e o Fio de Cloto",
+    "quote": "“Pense, por exemplo, nos tempos de Vespasiano. Verá sempre as mesmas coisas: pessoas que se casam, criam filhos, adoecem, morrem, guerreiam... Pois bem, a vida daqueles já não existe em parte alguma... Entregue-se sem reservas a Cloto, permitindo que ela teça a trama de sua vida...”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "O exame da história mostra que todas as ambições, intrigas e dramas das gerações passadas foram completamente apagados pelo tempo. Entender isso nos liberta da ansiedade e nos leva a confiar na tecelã do destino (Cloto)."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "Visão Histórica Temporal & Entrega à Providência. Reconhecimento do teatro da vida humana."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Assistir a um documentário sobre os grandes impérios da antiguidade e perceber que todos os seus imperadores, generais e banquetes luxuosos hoje são apenas pó e capítulos de livros."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Quando se sentir sobrecarregado por uma preocupação profissional, lembre-se de Vespasiano e Trajano. Daqui a cem anos, essa sua angústia terá se dissolvido no nada."
+     }
+    ],
+    "id": "livro-4-32-35"
+   },
+   {
+    "from": 36,
+    "to": 39,
+    "title": "A Transformação da Matéria e o Julgamento Interno",
+    "quote": "“Contemple continuamente que tudo nasce por transformação... O que lhe causa o mal subsiste em você mesmo, na parte onde reside o poder de formar opinião acerca dos infortúnios... Faça com que tal poder abdique de tais opiniões, e tudo irá bem.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "A natureza ama transformar o existente para criar o novo. O mal nunca reside no mundo físico externo, mas unicamente no centro de formação de opiniões do próprio indivíduo."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "Metamorfose Cósmica & Soberania do Julgamento. O mal só existe na mente que julga mal."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "A poda severa de uma árvore no inverno. Para quem olha de fora, parece uma destruição violenta; para a árvore, é o processo indispensável para florescer com mais força na primavera."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Se sentir dor física ou desconforto, cuide do corpo com sobriedade, mas impeça sua mente de dramatizar o sofrimento com lamentações."
+     }
+    ],
+    "id": "livro-4-36-39"
+   },
+   {
+    "from": 40,
+    "to": 43,
+    "title": "O Universo como Organismo Vivo e a Torrente do Tempo",
+    "quote": "“Conceba sem cessar o mundo como um ser vivo único, que contém uma só substância e uma alma única... O tempo é como um rio formado de eventos, uma torrente que carrega tudo adiante...”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "O cosmos é um organismo vivo interconectado (*Sympatheia*). O tempo arrasta inexoravelmente todas as construções e reinos humanos; lutar contra essa corrente é fútil."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "Sympatheia Universal & Fluxo Heraclitiano. A percepção da dinâmica contínua do tempo."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um rio volumoso correndo em direção ao oceano. As folhas que caem na água são levadas suavemente pela correnteza; tentar nadar contra o rio principal apenas esgota o nadador."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Não tente segurar o tempo ou congelar momentos do passado. Flua com os acontecimentos com serenidade e adaptação constante."
+     }
+    ],
+    "id": "livro-4-40-43"
+   },
+   {
+    "from": 44,
+    "to": 46,
+    "title": "Os Ciclos da Natureza e o Ensinamento de Heráclito",
+    "quote": "“Tudo o que acontece é tão habitual e bem conhecido como a rosa na primavera e os frutos no verão... Lembre-se sempre dos ensinamentos de Heráclito: a morte da terra é tornar-se água; a morte da água é tornar-se ar...”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "A doença, a velhice, a morte e as traições são tão comuns e previsíveis na vida humana quanto as estações do ano. Nada disso deve nos pegar de surpresa, pois tudo obedece ao ciclo eterno das transformações."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "Premeditatio Malorum & Ciclo Heraclitiano dos Elementos. A familiaridade racional com as intempéries da existência."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um morador do Canadá que não entra em pânico quando a neve começa a cair no inverno; ele sabe que o inverno é um evento normal e veste suas roupas térmicas com naturalidade."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Não se escandalize com os desvios humanos ou com as dificuldades da vida. Trate-os como eventos tão naturais quanto a chuva de outono."
+     }
+    ],
+    "id": "livro-4-44-46"
+   },
+   {
+    "from": 47,
+    "to": 48,
+    "title": "A Finitude e a Gratidão da Azeitona Madura",
+    "quote": "“Não há grande diferença entre morrer amanhã ou daqui a muitos anos... Portanto, percorra este pequeno lapso de tempo obediente à natureza e termine sua vida alegremente, como a azeitona que, madura, caísse elogiando a terra que lhe deu vida e dando graças à árvore que a produziu.”",
+    "fields": [
+     {
+      "key": "reflexao",
+      "label": "Reflexão Central",
+      "md": "Uma das imagens poéticas mais tocantes da literatura estoica. O homem de bem conclui sua jornada sem amargura ou medo, desprendendo-se da vida com a mesma gratidão com que uma azeitona madura cai do ramo, abençoando a árvore e a terra."
+     },
+     {
+      "key": "conceitos",
+      "label": "Desconstrução dos Conceitos Estoicos",
+      "md": "Memento Mori Sublimado & Eucharistia (Gratidão Existencial). A despedida serena e honrada da vida."
+     },
+     {
+      "key": "analogia",
+      "label": "Analogia Contemporânea",
+      "md": "Um ator consagrado que dá o seu melhor em um espetáculo teatral e, ao cair do último pano, curva-se com um sorriso no rosto, agradecendo ao público e aos seus colegas de palco antes de sair de cena."
+     },
+     {
+      "key": "pratica",
+      "label": "Aplicação Prática",
+      "md": "Encerre o seu dia hoje com a gratidão da azeitona madura. Agradeça pelas oportunidades vividas, perdoe as ofensas recebidas e deite-se em paz com a sua consciência."
+     }
+    ],
+    "id": "livro-4-47-48"
+   }
+  ]
+ }
+]

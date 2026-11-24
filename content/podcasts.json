@@ -1,0 +1,42 @@
+[
+  {
+    "id": "meditacoes-ep1",
+    "workId": "meditacoes",
+    "sectionId": "livro-1",
+    "title": "Episódio 1 · A blindagem mental de Marco Aurélio (Prefácio & Livro I)",
+    "description": "O contexto histórico do imperador-filósofo, a imunização psicológica diária e o inventário completo da gratidão e das virtudes herdadas de seus avós, pais, mestres (Rústico, Apolônio, Sexto), Antonino Pio e os deuses.",
+    "src": "/podcasts/ep1-prefacio-livro-1.m4a",
+    "chapters": [],
+    "createdAt": "2026-11-24T21:45:00.000Z"
+  },
+  {
+    "id": "meditacoes-ep2-livro-2",
+    "workId": "meditacoes",
+    "sectionId": "livro-2",
+    "title": "Episódio 2 · A cidadela interior de Marco Aurélio (Livro II, o Protocolo de Carnunto)",
+    "description": "A preparação matinal contra pessoas difíceis (Premeditatio Malorum), a cooperação universal (Sympatheia), a soberania da razão sobre a carne e a respiração (Hegemonikon), a urgência do tempo presente (Memento Mori) e as 5 formas de degradação da alma.",
+    "src": "/podcasts/ep2-livro-2.m4a",
+    "chapters": [],
+    "createdAt": "2026-11-24T21:45:00.000Z"
+  },
+  {
+    "id": "meditacoes-ep3-livro-3",
+    "workId": "meditacoes",
+    "sectionId": "livro-3",
+    "title": "Episódio 3 · O medo estoico do declínio mental (Livro III)",
+    "description": "A consciência da caducidade do rigor intelectual antes da morte física, a beleza nos processos secundários da natureza, o culto à pureza do Daemon interior, a transparência de vida e o alinhamento pleno com a ordem da Natureza.",
+    "src": "/podcasts/ep3-livro-3.m4a",
+    "chapters": [],
+    "createdAt": "2026-11-24T21:45:00.000Z"
+  },
+  {
+    "id": "meditacoes-ep4-livro-4",
+    "workId": "meditacoes",
+    "sectionId": "livro-4",
+    "title": "Episódio 4 · A cidadela interior de Marco Aurélio (Livro IV)",
+    "description": "O obstáculo convertido em combustível para a virtude (Amor Fati), o retiro na Cidadela Interior (Eutaxia e Ataraxia), a destruição do julgamento de dano e da queixa (Dogma), a impermanência dos impérios e a metáfora da azeitona madura que cai abençoando a terra.",
+    "src": "/podcasts/ep4-livro-4.m4a",
+    "chapters": [],
+    "createdAt": "2026-11-24T21:45:00.000Z"
+  }
+]
